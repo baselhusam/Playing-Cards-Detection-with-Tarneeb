@@ -10,7 +10,7 @@ What I've worked on while making this project from [here]() <br>
 Clone repo and run the following commands
 
 ```bash
-git clone https://github.com/ultralytics/yolov5  # clone
+git clone https://github.com/baselhusam/Playing-Cards-Detection-with-Tarneeb..git  # clone
 cd Playing-Cards-Detection-with-Tarneeb.
 pip install -r requirements.txt  # install
 ```
