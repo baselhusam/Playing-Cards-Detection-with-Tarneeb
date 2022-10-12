@@ -1,6 +1,3 @@
-## <div align="center">Documentation</div>
-
-What I've worked on while making this project from [here]() <br>
 
 ## <div align="center">Quick Start Examples</div>
 
@@ -10,8 +7,8 @@ What I've worked on while making this project from [here]() <br>
 Clone repo and run the following commands
 
 ```bash
-git clone https://github.com/baselhusam/Playing-Cards-Detection-with-Tarneeb..git  # clone
-cd Playing-Cards-Detection-with-Tarneeb.
+git clone https://github.com/baselhusam/Playing-Cards-Detection-with-Tarneeb.git  # clone
+cd Playing-Cards-Detection-with-Tarneeb
 pip install -r requirements.txt  # install
 ```
 
@@ -28,7 +25,7 @@ Or you can open [detect_trnb.ipynb](https://github.com/baselhusam/Playing-Cards-
 </details>
 <br>
 
-## <div align="center"> Information about this project </div> <hr>
+## <div > Information about this project </div> <hr>
 
 This Project has 2 main features:
    1. Playing Card Detection  --> You can try this by using the [detect.py](https://github.com/baselhusam/Playing-Cards-Detection-with-Tarneeb./blob/master/detect.py)
@@ -63,4 +60,15 @@ this project is programmed that the model should see the card for at least 2 sec
 
 At the top left of the screen you wil see the winner for evey step (every new card came to the model) and you will see each player whats his card.
 
+### For example:
 
+Enter Tarneeb: D <br> <br>
+Winner: Fourth <br> <br>
+First Player: 3S <br>
+Second Player: AS <br>
+Third Player: 5S <br>
+Fourth Player: 3D <br>
+
+## <div align="left">Documentation</div>
+
+What I've worked on while making this project from [here](https://github.com/baselhusam/Playing-Cards-Detection-with-Tarneeb/blob/master/Playing%20Cards%20Detection.pdf) <br>
